@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # encoding: ISO-8859-1
 require 'nokogiri'
 require 'mechanize'
